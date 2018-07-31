@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
-                <h2>YAY!</h2>
+                <h2>YAY - CI/CD!</h2>
                 <p>Continuous deployment of website running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
